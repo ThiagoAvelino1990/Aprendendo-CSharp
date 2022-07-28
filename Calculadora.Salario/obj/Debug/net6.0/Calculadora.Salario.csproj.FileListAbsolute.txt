@@ -1,0 +1,15 @@
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\bin\Debug\net6.0\Calculadora.Salario.exe
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\bin\Debug\net6.0\Calculadora.Salario.deps.json
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\bin\Debug\net6.0\Calculadora.Salario.runtimeconfig.json
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\bin\Debug\net6.0\Calculadora.Salario.dll
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\bin\Debug\net6.0\Calculadora.Salario.pdb
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\Calculadora.Salario.csproj.AssemblyReference.cache
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\Calculadora.Salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\Calculadora.Salario.AssemblyInfoInputs.cache
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\Calculadora.Salario.AssemblyInfo.cs
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\Calculadora.Salario.csproj.CoreCompileInputs.cache
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\Calculadora.Salario.dll
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\refint\Calculadora.Salario.dll
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\Calculadora.Salario.pdb
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\Calculadora.Salario.genruntimeconfig.cache
+D:\Desenv\Aprendendo-CSharp\Calculadora.Salario\obj\Debug\net6.0\ref\Calculadora.Salario.dll
