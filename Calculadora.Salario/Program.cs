@@ -13,10 +13,10 @@ funcionario.Nome = Console.ReadLine();
 Console.WriteLine("Favor informar o salário Bruto: ");
 funcionario.SalarioBruto = Convert.ToDouble(Console.ReadLine());
 
-descINSS = Math.Round(funcionario.CalculoINSS(funcionario.SalarioBruto),2);
+descINSS = funcionario.CalculoINSS(funcionario.SalarioBruto);
 Console.WriteLine($"Desconto INSS: {descINSS}");
 
-descIR = Math.Round(funcionario.CalculoIR(funcionario.SalarioBruto),2);
+descIR = funcionario.CalculoIR(funcionario.SalarioBruto);
 Console.WriteLine($"Desconto IR: {descIR}");
 
 funcionario.SalarioLiquido = Math.Round(funcionario.SalarioBruto - (descINSS + descIR),2);
